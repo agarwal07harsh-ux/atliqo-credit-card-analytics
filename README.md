@@ -58,6 +58,7 @@ A right-tailed, two-sample Z-test was conducted to determine if the new card dro
 
 ![EDA Dashboard](assets/analysis.png)
 
+
 ![EDA Dashboard](assets/two_sample_test.png)
 ---
 > *Created for analytical portfolio demonstration. Highlights end-to-end capabilities from raw SQL extraction to executive-level statistical validation.*
