@@ -57,7 +57,7 @@ A right-tailed, two-sample Z-test was conducted to determine if the new card dro
 * **P-Value:** 0.00299
 
 
-![EDA Dashboard](assets/Screenshot 2026-08-05 231720.png)
+![EDA Dashboard](assets/Screenshot 2026-08-.png)
 
 
 **Verdict:** With a p-value (0.00299) significantly lower than our alpha (0.05), we successfully **reject the null hypothesis**. The data statistically proves that the targeted credit card campaign significantly boosts average transaction amounts.
