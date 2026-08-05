@@ -29,6 +29,8 @@ Segmenting the cleaned data into distinct age brackets revealed a massive, untap
 2. **The Behavior:** This group relies almost entirely on UPI apps (PhonePe, GPay) and debit cards, with near-zero credit card adoption. However, their top three shopping categories are Electronics, Fashion & Apparel, and Beauty & Personal Care.
 3. **The Strategy:** Launch an entry-level, UPI-integrated credit card targeted specifically at this demographic to capture their retail spending volume and build early credit habits.
 
+![EDA Dashboard](assets/analysis.png)
+
 ---
 
 ## ⚖️ Phase 2: A/B Testing & Statistical Validation
