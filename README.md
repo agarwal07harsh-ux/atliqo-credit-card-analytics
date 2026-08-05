@@ -29,9 +29,6 @@ Segmenting the cleaned data into distinct age brackets revealed a massive, untap
 2. **The Behavior:** This group relies almost entirely on UPI apps (PhonePe, GPay) and debit cards, with near-zero credit card adoption. However, their top three shopping categories are Electronics, Fashion & Apparel, and Beauty & Personal Care.
 3. **The Strategy:** Launch an entry-level, UPI-integrated credit card targeted specifically at this demographic to capture their retail spending volume and build early credit habits.
 
-
-![EDA Dashboard](assets/analysis.png)
-
 ---
 
 ## ⚖️ Phase 2: A/B Testing & Statistical Validation
@@ -56,12 +53,10 @@ A right-tailed, two-sample Z-test was conducted to determine if the new card dro
 * **Z-Statistic:** 2.748
 * **P-Value:** 0.00299
 
-
-![EDA Dashboard](assets/Screenshot 2026-08-.png)
-
-
 **Verdict:** With a p-value (0.00299) significantly lower than our alpha (0.05), we successfully **reject the null hypothesis**. The data statistically proves that the targeted credit card campaign significantly boosts average transaction amounts.
 
-![EDA Dashboard](assets/image.png)
+
+![EDA Dashboard](assets/analysis.png)
+
 ---
 > *Created for analytical portfolio demonstration. Highlights end-to-end capabilities from raw SQL extraction to executive-level statistical validation.*
